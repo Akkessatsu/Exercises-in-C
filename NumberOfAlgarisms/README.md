@@ -19,4 +19,4 @@ Number of nines = 4 - 1 = 3.
 
 Sequence of Nines = (9 + 99 + 999).
 
-Any recommendation of changeor tips are welcome!
+Any recommendation of change or tips are welcome!
